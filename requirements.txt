@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai          # or langchain-anthropic / langchain-google-genai
+youtube-transcript-api
+faiss-cpu
+python-dotenv
